@@ -1,0 +1,5 @@
+export const CREATE_ROBOT = 'CREATE_ROBOT'
+export const DELETE_ROBOT = 'DELETE_ROBOT'
+export const FIGHT_MODE_ON = 'FIGHT_MODE_ON'
+export const FIGHT_MODE_OFF = 'FIGHT_MODE_OFF'
+export const FIGHT_RECORD = 'FIGHT_RECORD'
